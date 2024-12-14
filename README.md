@@ -18,3 +18,30 @@
 - HTTPs
 - Tree Shaking - remove unused code
 - Different dev and prod bundles
+
+
+# Cuisine Restraunt 
+
+
+/**
+ * Header
+ *  - Logo
+ *  - Nav Items
+ * Body
+ *  - search
+ *  - Restaurant container
+ *    - Restraunt card
+ *      - image
+ *      - Name of res, Star rating, cusines,delivery time
+ * Footer
+ *  - copyrights
+ *  - Links
+ *  - Address
+ *  - Contact
+ */
+
+ # React Hooks
+
+    - They are normal JS utility functions.
+    - useState() => Superpower state variables in react.
+    - useEffect()     
